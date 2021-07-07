@@ -67,6 +67,7 @@
     [self.arrs addObject:_view8];
     [self.arrs addObject:_view9];
     [self.arrs addObject:_view10];
+    //可作为个人设置也 都有不同的UI展示 一个一个的添加进去
 }
 - (void)xxxx{
     [self.arrs insertObject:self.view11 atIndex:3];
